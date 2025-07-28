@@ -74,4 +74,4 @@ Whether you’re coordinating campaigns, managing sprint cycles, or aligning cro
 
 ## 🔍 Tags
 
-monday for mac, monday mac app, monday mac download, project management mac, monday desktop mac, download monday for mac, monday task manager, monday app macos, monday work os, productivity tools mac
+monday for mac, monday mac app, monday mac download, project management mac, monday desktop mac, download monday for mac, monday task manager, monday app macos, monday work os, monday download, monday com desktop app, monday desktop app, monday com download, monday app download, monday app
